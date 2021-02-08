@@ -1,0 +1,6 @@
+DebugMain.pbi: \
+  E:\Projekte\TxV2\STM32\TxV2_V2.0\Src\Debug\Debug\DebugMain.c \
+  E:\Projekte\TxV2\STM32\TxV2_V2.0\EWARM\..\Src\RSL_Communication\Test\RSL_Protocol_Lower_Level_Test.h \
+  E:\Projekte\TxV2\STM32\TxV2_V2.0\EWARM\..\Src\RSL_Communication\Test/Test_Selector.h \
+  E:\Projekte\TxV2\STM32\TxV2_V2.0\EWARM\..\Src\RSL_Communication\Test\RSL_Protocol_Upper_Level_Steps_Test.h \
+  E:\Projekte\TxV2\STM32\TxV2_V2.0\EWARM\..\Src\RSL_Communication\Test\RSL_Protocol_Upper_Level_Behaviours_Test.h

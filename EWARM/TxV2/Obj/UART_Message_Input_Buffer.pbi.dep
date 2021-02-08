@@ -1,0 +1,16 @@
+UART_Message_Input_Buffer.pbi: \
+  D:\Arbeit\TxV2\STM32\TxV2_V1.3\Src\UART_Communcation\UART_IO_Handling\UART_Message_Input_Buffer.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product_stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\inttypes.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdint.h \
+  D:\Arbeit\TxV2\STM32\TxV2_V1.3\Src\UART_Communcation\UART_IO_Handling/UART_Package_Defines.h \
+  D:\Arbeit\TxV2\STM32\TxV2_V1.3\EWARM\..\Src\UART_Communcation\UART_Main\UART_Device_Definition.h \
+  D:\Arbeit\TxV2\STM32\TxV2_V1.3\Src\UART_Communcation\UART_IO_Handling/UART_Message_Input_Buffer.h
