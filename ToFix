@@ -1,0 +1,6 @@
+-> Pairing -> rename the states accordingly
+-> pairing -> add timer for timeout by STM32 as safety measure (35s)
+-> broadcastEnd -> rename states accordingly
+=> JUST CHECK ALL THE STEPS FOR THE RIGHT NAMES
+
+-> stopBCEndTimeout -> no keep alive signal anymore
