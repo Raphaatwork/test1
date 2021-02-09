@@ -43,7 +43,7 @@
 #include "Test_Selector.h"
 #include "Message_Definitions.h"
 #include "Handler_NAK_Transmission.h"
-#include "userMethods_UART.h"
+#include "UserMethods_UART.h"
 
 /* Typedefinitions */
 
